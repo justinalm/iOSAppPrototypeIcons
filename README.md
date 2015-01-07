@@ -1,2 +1,2 @@
 # iOSAppPrototypeIcons
-Get better app icons for your iOS prototypes. Impress clients and know what is where on your home screen.
+Better app icons for your iOS prototypes. Have better visual cues for what client project is where. Tired of reading the 9pt text under the default, boring, black and white app icons Xcode generates for your projects. This little repo will help you impress your clients and know what is where on your home screen.
